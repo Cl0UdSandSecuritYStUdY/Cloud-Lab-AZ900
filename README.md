@@ -328,4 +328,5 @@ Computação em nuvem
 	• Usando APIs
 	• Usando o PowerShell.
 
+![image](https://github.com/user-attachments/assets/f84db0f7-05c4-451f-9497-a861760343fc)
 
